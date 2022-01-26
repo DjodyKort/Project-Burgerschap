@@ -1,0 +1,121 @@
+/* Begin global styling */
+    html, body{
+        background-color: #ECFFF9;
+        overflow-x: hidden;
+    }
+    html, body{
+        margin : 0;
+        padding: 0;
+    }
+    h1,h2,h3,h4{
+        text-align : center;
+        font-family: 'Roboto', sans-serif;
+    }
+    ul,li{
+      font-family: 'Roboto', sans-serif;
+    }
+    p{
+        font-family: 'Roboto', sans-serif;
+    }
+    .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+/* End global styling */
+
+
+/* Begin Global navbar */
+.ul1 {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(1, 118, 252, 0.5);
+    position: relative;
+    width: 100%;
+    padding-left: 85px;
+  }
+  
+  .li1 {
+    float: left;
+  }
+  
+  .li1 a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .li1 a:hover {
+    background-color: rgba(1, 118, 252, 0.5);
+  }
+  .select {
+    background-color: rgb(1, 118, 252, 0.5);
+  }
+.navbar a  {
+padding: 15px;
+color: white;
+}
+  /* End Global navbar */
+
+
+  /* Begin styling Christendom */
+    .christendom-body p{
+        font-size:18px
+    }
+    .christendom-mainImg{
+        width : 300px;
+        height: 300px;
+    }
+    .christendom-text p{
+      width: 900px;
+      margin-left: 500px;
+      background-color: rgb(122, 238, 201);
+      padding: 10px;
+      padding-left: 15px;
+      border-radius: 25px;
+    }
+    .christendom-main-ul{
+      width: 870px;
+      margin-left: 500px;
+      background-color: rgb(122, 238, 201);
+      padding:      10px;
+      padding-left: 35px;
+      border-radius: 25px;
+    }
+    .christendom-main-ul li{
+      width: 850px;
+    }
+    
+  /* End styling Christendom */
+
+
+  /* Begin styling Jodendom */
+  .jodendom-body p{
+      width: 900px;
+      margin-left: 500px;
+      background-color: rgb(122, 238, 201);
+      padding: 10px;
+      padding-left: 15px;
+      border-radius: 25px;
+  }
+
+  /* End styling Jodendom */
+
+
+  /* Begin styling Islam */
+  .islam-body p{
+    width: 900px;
+    margin-left: 500px;
+    background-color: rgb(122, 238, 201);
+    padding: 10px;
+    padding-left: 15px; 
+    border-radius: 25px;
+  }
+  
+  /* End styling Islam */
