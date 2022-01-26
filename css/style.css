@@ -21,7 +21,6 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
     }
 /* End global styling */
 
@@ -57,11 +56,40 @@
   .select {
     background-color: rgb(1, 118, 252, 0.5);
   }
-.navbar a  {
-padding: 15px;
-color: white;
-}
+  .navbar a  {
+  padding: 15px;
+  color: white;
+  }
+
+  .global-ul{
+    width: 870px;
+    margin-left: 500px;
+    background-color: rgb(122, 238, 201);
+    padding:      10px;
+    padding-left: 35px;
+    border-radius: 25px;
+  }
+  .global-ul li{
+      width: 850px;
+    }
   /* End Global navbar */
+
+
+  /* Begin styling index */
+.index-body p{
+  font-size:18px;
+  width: 920px;
+  margin-left: 490px;
+  background-color: rgb(122, 238, 201);
+  padding: 10px;
+  padding-left: 15px;
+  border-radius: 25px;
+}
+.index-bottom{
+  margin-top: 40vh;
+}
+  /* End styling index */
+
 
 
   /* Begin styling Christendom */
@@ -80,18 +108,11 @@ color: white;
       padding-left: 15px;
       border-radius: 25px;
     }
-    .christendom-main-ul{
-      width: 870px;
-      margin-left: 500px;
-      background-color: rgb(122, 238, 201);
-      padding:      10px;
-      padding-left: 35px;
-      border-radius: 25px;
+    .christendom-h3-links h3{
+      width: 480px;
+      position: absolute;
+      text-align: right;
     }
-    .christendom-main-ul li{
-      width: 850px;
-    }
-    
   /* End styling Christendom */
 
 
