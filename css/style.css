@@ -22,6 +22,15 @@
     margin-left: auto;
     margin-right: auto;
     }
+
+    p{
+      width: 900px;
+      margin-left: auto; margin-right:auto;
+      background-color: rgb(122, 238, 201);
+      padding: 10px;
+      padding-left: 15px;
+      border-radius: 25px;
+    }
 /* End global styling */
 
 
@@ -101,38 +110,17 @@
         width : 300px;
         height: 300px;
     }
-    .christendom-text p{
-      width: 900px;
-      margin-left: auto; margin-right:auto;
-      background-color: rgb(122, 238, 201);
-      padding: 10px;
-      padding-left: 15px;
-      border-radius: 25px;
-    }
+    
   /* End styling Christendom */
 
 
   /* Begin styling Jodendom */
-  .jodendom-body p{
-      width: 900px;
-      margin-left: auto; margin-right:auto;
-      background-color: rgb(122, 238, 201);
-      padding: 10px;
-      padding-left: 15px;
-      border-radius: 25px;
-  }
+  
 
   /* End styling Jodendom */
 
 
   /* Begin styling Islam */
-  .islam-body p{
-    width: 900px;
-    margin-left: auto; margin-right:auto;
-    background-color: rgb(122, 238, 201);
-    padding: 10px;
-    padding-left: 15px; 
-    border-radius: 25px;
-  }
+ 
   
   /* End styling Islam */
