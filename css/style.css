@@ -89,7 +89,7 @@
 .index-body p{
   font-size:18px;
   width: 920px;
-  margin-left: 490px;
+  margin-left: auto; margin-right:auto;
   background-color: rgb(122, 238, 201);
   padding: 10px;
   padding-left: 15px;
