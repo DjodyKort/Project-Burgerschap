@@ -9,13 +9,13 @@
 <!-- Navbar -->
 <div class='container1'>
     <ul class='ul1'>
-        <li class='li1'><a href='../index.html'> Home </a></li>
-        <li class='li1'><a href='./christendom.html'>Christendom</a></li>
-        <li class='li1'><a href='./islam.html'>Islam</a></li>
-        <li class='li1'><a class='select' href='./jodendom.html'>Jodendom</a></li>
-        <li class='li1'><a href='./film.html'>Film</a></li>
-        <li class='li1'><a href='./blogs/volkenkundemuseum-blog.html'>Museum Blog</a></li>
-        <li class='li1'><a href='./blogs/cultuur-blog.html'>Cultuur Blog</a></li>
+        <li class='li1'><a href='../index.php'> Home </a></li>
+        <li class='li1'><a href='./christendom.php'>Christendom</a></li>
+        <li class='li1'><a href='./islam.php'>Islam</a></li>
+        <li class='li1'><a class='select' href='./jodendom.php'>Jodendom</a></li>
+        <li class='li1'><a href='./film.php'>Film</a></li>
+        <li class='li1'><a href='./blogs/volkenkundemuseum-blog.php'>Museum Blog</a></li>
+        <li class='li1'><a href='./blogs/cultuur-blog.php'>Cultuur Blog</a></li>
     </ul>
 </div>
 <!-- End navbar -->

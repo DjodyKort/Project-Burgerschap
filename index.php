@@ -10,13 +10,13 @@
 <!-- Navbar -->
 <div class='container1'>
     <ul class='ul1'>
-        <li class='li1'><a class='select' href='./index.html'> Home </a></li>
-        <li class='li1'><a href='./html/christendom.html'>Christendom</a></li>
-        <li class='li1'><a href='./html/islam.html'>Islam</a></li>
-        <li class='li1'><a href='./html/jodendom.html'>Jodendom</a></li>
-        <li class='li1'><a href='./html/film.html'>Film</a></li>
-        <li class='li1'><a href='./html/blogs/volkenkundemuseum-blog.html'>Museum Blog</a></li>
-        <li class='li1'><a href='./html/blogs/cultuur-blog.html'>Cultuur Blog</a></li>
+        <li class='li1'><a class='select' href='./index.php'> Home </a></li>
+        <li class='li1'><a href='./html/christendom.php'>Christendom</a></li>
+        <li class='li1'><a href='./html/islam.php'>Islam</a></li>
+        <li class='li1'><a href='./html/jodendom.php'>Jodendom</a></li>
+        <li class='li1'><a href='./html/film.php'>Film</a></li>
+        <li class='li1'><a href='./html/blogs/volkenkundemuseum-blog.php'>Museum Blog</a></li>
+        <li class='li1'><a href='./html/blogs/cultuur-blog.php'>Cultuur Blog</a></li>
     </ul>
 </div>
 <!-- End navbar -->
